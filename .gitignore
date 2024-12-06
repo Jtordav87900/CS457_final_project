@@ -5,6 +5,12 @@ __pycache__/
 
 # C extensions
 *.so
+src/__pycache__/
+src/db/__pycache__/
+src/login/__pycache__/
+src/main/__pycache__/
+src/passwordHashing/__pycache__/
+
 
 # Distribution / packaging
 .Python
